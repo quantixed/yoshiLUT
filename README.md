@@ -6,6 +6,6 @@ The aim is to turn the colours in the background of this screenshot into a colou
 
 ![img](Data/screenshot.png?raw=true "image")
 
-To make a look-up table:
+![img](Output/Plots/imagejlut.png?raw=true "image")
 
-![img](Output/Plots/Screenshot 2020-06-14 at 21.31.28.png?raw=true "image")
+Please read the post for more details.
